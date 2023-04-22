@@ -21,11 +21,11 @@ Estão distribuídos da seguinte forma:
   Questão 05 - quest5(pasta), InvertendoStrings
   
   <!--ts Questões-->
-   * [Questão 01](#[quest1](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest1))
-   * [Questão 02](#[Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest2))
-   * [Questão 03](#[SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest3))
-   * [Questão 04](#[DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest4))
-   * [[Questão 05](#[[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java)
+   * [[Questão 01](#[quest1](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest1))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest1/Quest1.java)
+   * [[Questão 02](#[Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest2))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest2/Fibonacci.java)
+   * [Questão 03](#[SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest3))(https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest3/SequenciaLogica.java)
+   * [Questão 04](#[DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest4)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest4/DistanciaPercorrida.java))
+   * [Questão 05](#[[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java))(https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java)
 <!--te-->
 
 ### Questão 01
