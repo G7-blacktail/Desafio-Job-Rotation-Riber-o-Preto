@@ -9,23 +9,13 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Os códigos estão distribuídos em pastas e cada uma contém um arquivo .java que trás consigo o metódo main que possibilita ter o resultado do desafio em questão.
 
 Estão distribuídos da seguinte forma:
-  
-  Questão 01 - quest1(pasta), quest1 arquivo;     
-  
-  Questão 02 - quest2(pasta), Fibonacci arquivo;  
-  
-  Questão 03 - quest3(pasta), SequenciaNumerica;
-  
-  Questão 04 - quest4(pasta), DistânciaPercorrida
-  
-  Questão 05 - quest5(pasta), InvertendoStrings
-  
+ 
   <!--ts Questões-->
-   * [[Questão 01](#[quest1](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest1))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest1/Quest1.java)
-   * [[Questão 02](#[Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest2))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest2/Fibonacci.java)
-   * [Questão 03](#[SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest3))(https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest3/SequenciaLogica.java)
-   * [Questão 04](#[DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest4)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest4/DistanciaPercorrida.java))
-   * [Questão 05](#[[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java))(https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java)
+   * Questão 01 [quest1](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest1/Quest1.java)
+   * Questão 02 [Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest2/Fibonacci.java)
+   * Questão 03 [SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest3/SequenciaLogica.java)
+   * Questão 04 [DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest4/DistanciaPercorrida.java)
+   * Questão 05 [InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java)
 <!--te-->
 
 ### Questão 01
