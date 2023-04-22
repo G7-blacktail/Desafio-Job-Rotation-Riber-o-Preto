@@ -10,18 +10,18 @@ Os códigos estão distribuídos em pastas e cada uma contém um arquivo .java q
 
 Estão distribuídos da seguinte forma:
   
-  Questão 01 - quest1(pasta), quest1 arquivo;
-  Questão 02 - quest2(pasta), Fibonacci arquivo;
-  Questão 03 - quest3(pasta), SequenciaNumerica;
-  Questão 04 - quest4(pasta), DistânciaPercorrida
-  Questão 05 - quest5(pasta), InvertendoStrings
+  * Questão 01 - quest1(pasta), quest1 arquivo;
+  * Questão 02 - quest2(pasta), Fibonacci arquivo;
+  * Questão 03 - quest3(pasta), SequenciaNumerica;
+  * Questão 04 - quest4(pasta), DistânciaPercorrida
+  * Questão 05 - quest5(pasta), InvertendoStrings
   
   <!--ts Questões-->
-   * [Questão 01](#quest1)
-   * [Questão 02](#Fibonacci)
-   * [Questão 03](#SequenciaNumerica)
-   * [Questão 04](#DistanciaPercorrida)
-   * [Questão 05](#InvertendoStrings)
+   * [Questão 01](#[quest1](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest1))
+   * [Questão 02](#[Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest2))
+   * [Questão 03](#[SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest3))
+   * [Questão 04](#[DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest4))
+   * [Questão 05](#[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5))
 <!--te-->
 
 ### Questão 01
