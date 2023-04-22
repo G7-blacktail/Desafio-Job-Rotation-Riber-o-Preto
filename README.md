@@ -25,7 +25,7 @@ Estão distribuídos da seguinte forma:
    * [Questão 02](#[Fibonacci](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest2))
    * [Questão 03](#[SequenciaNumerica](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest3))
    * [Questão 04](#[DistanciaPercorrida](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest4))
-   * [Questão 05](#[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5))
+   * [[Questão 05](#[[InvertendoStrings](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/tree/main/quest5)](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java))](https://github.com/G7-blacktail/Desafio-Job-Rotation-Riber-o-Preto/blob/main/quest5/InvertendoStrings.java)
 <!--te-->
 
 ### Questão 01
